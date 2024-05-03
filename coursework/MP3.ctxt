@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MP3
+comment1.params=model\ price\ weight\ size\ memory
+comment1.target=MP3(java.lang.String,\ double,\ float,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ getmemory()
+comment3.params=
+comment3.target=double\ getAvailableMemory()
+comment4.params=
+comment4.target=java.lang.String\ getModel()
+comment5.params=downloadSize
+comment5.target=void\ downloadSize(double)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
